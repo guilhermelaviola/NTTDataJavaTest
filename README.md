@@ -4,8 +4,8 @@
 String = 'acdfgijloprtuvx'
 
 Example:
-Input: new york
-Output: new y810k
+- Input: new york
+- Output: new y810k
 
 2. Magic Square is a square matrix of numbers in arithmetic progression in which the sum of each column, each row and the two diagonals are equal (Wikipedia). Create a
 method that takes a two-dimensional array and checks whether it's a magic square or not.
