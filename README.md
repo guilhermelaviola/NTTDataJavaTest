@@ -2,7 +2,7 @@
 
 1. Create a method to encrypt a password by replacing each letter from the sequence below (id present) by the sequence index.
 
-String = 'acdfgijloprtuvx'
+Sequence = 'acdfgijloprtuvx'
 
 Example:
 - Input: new york
